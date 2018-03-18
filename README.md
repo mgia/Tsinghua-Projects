@@ -1,5 +1,5 @@
-nghua Projects
-Programs created during my time at Tsinghua Fall '17
+# Tsinghua Projects
+Programs created during my 2017 fall semester at Tsinghua University.
 
 ## What is this repo?
 This repository includes the more challenging coding assignments and projects that I did during my first semester as a CS major in Tsinghua University.
