@@ -13,8 +13,5 @@ This repository is meant to help future students or anyone who looks to improve 
 ## What topics are covered in this course?
 Most assignments cover topics such as Recursion, Breadth First Search, and utilizes different data structures includes strings, vectors, queues, maps, etc. 
 
-## Main project
-The main project is an implementation of a Rubics Cube Solver. As a group of two, (with @AkiraChang) we created a C++ cube solver that can solve any given cube input in 0.001s using max 4 kilobytes. The solver produces a list of moves which solves the cube systemically from first layer to second to third layer. As we use a simple solving method, it is an average of about 150 moves for each input.
-
 ## Final notes
 To all who use this repository, thank you and I hope that you will find it helpful for your learning. Cheers!
