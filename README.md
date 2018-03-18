@@ -1,4 +1,4 @@
-# Tsinghua Projects
+nghua Projects
 Programs created during my time at Tsinghua Fall '17
 
 ## What is this repo?
@@ -15,3 +15,4 @@ Most assignments cover topics such as Recursion, Breadth First Search, and utili
 
 ## Final notes
 To all who use this repository, thank you and I hope that you will find it helpful for your learning. Cheers!
+
